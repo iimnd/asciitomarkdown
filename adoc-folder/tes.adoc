@@ -1,0 +1,14 @@
+= Udang
+:keywords: udang, cumi
+
+== Overview
+
+*Tujuan dibangun sistem udang adalah:*
+
+1. Cronjob
+
+*Cara kerja sistem Tentacles adalah:*
+
+ini cara kerja
+== Technical Information
+
